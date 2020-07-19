@@ -12,8 +12,9 @@ I am a web development geek. Currently studying electronics and communication en
 #### 👯 Current status:
 I am working on self-projects and looking for an internship opportunity, Feel free to message me at the above mentioned media handles.
 
-[![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42)](https://github.com/vinayaksh42/github-readme-stats)
-
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=vinayaksh42"  />
+</p>
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true)

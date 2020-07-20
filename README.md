@@ -7,7 +7,7 @@
 I am a web development geek. Currently studying electronics and communication engineering in india. I am always down for a casual gaming round, so feel free to reach out to me using the above social media handles.
 
 #### 😄 My area of expertise are:
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://hackernoon.com/hn-images/1*2QOKCwEhtITQa0RIuoQsYQ.png" width="60px"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 
 #### 👯 Current status:
 I am working on self-projects and looking for an internship opportunity.

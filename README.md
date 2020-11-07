@@ -12,9 +12,9 @@ I am a web development geek. Currently studying electronics and communication en
 #### 👯 Current status:
 digging deeper into web technologies.
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=vinayaksh42"  />
-</p>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--img alt="Satyanchal's Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true&hide_border=true"-->
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatcoders&layout=compact&hide_border=true&bg_color=ffffff" alt="iamsatyanchal">
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true)

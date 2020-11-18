@@ -1,13 +1,10 @@
 ### Hi there, I'm Vinayak 👋
+- 🔭 digging deeper into web technologies.
 
-#### 📫 My social media handles
+#### 📫 Follow me on:
 <a href="https://twitter.com/Vinayak47427793"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/vinayak-sharma-141096193/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> <a href="https://www.instagram.com/lee_codes/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
 
-#### 😄 My area of expertise are:
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://hackernoon.com/hn-images/1*2QOKCwEhtITQa0RIuoQsYQ.png" width="60px"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/officel/48/000000/react.png"/>
 
-#### 👯 Current status:
-digging deeper into web technologies.
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true)

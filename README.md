@@ -1,5 +1,7 @@
 ### Hi there, I'm Vinayak 👋
 - 🔭 digging deeper into web technologies.
+- 🌱 Full stack Developer 
+- 💬 Open source contributor
 
 #### 📫 Follow me on:
 <a href="https://twitter.com/Vinayak47427793"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/vinayak-sharma-141096193/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> <a href="https://www.instagram.com/lee_codes/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>

@@ -5,7 +5,7 @@
 
 #### 📫 checkout my:
 <a href="https://twitter.com/Vinayak47427793"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/vinayak-sharma-141096193/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-<a href="https://vinayaksh42.medium.com/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+<a href="https://vinayaksh42.medium.com/"><img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/></a>
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true)

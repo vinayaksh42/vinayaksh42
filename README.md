@@ -8,7 +8,7 @@
 <a href="https://vinayaksh42.medium.com/"><img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/></a>
 
 ![](https://github.com/vinayaksh42/stats/blob/master/generated/languages.svg)
-![](https://github.com/vinayaksh42/stats/blob/master/generated/languages.svg)
+![](https://github.com/vinayaksh42/stats/blob/master/generated/overview.svg)
 
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

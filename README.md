@@ -6,8 +6,8 @@
 #### 📫 checkout my:
 <a href="https://twitter.com/Vinayak47427793"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> <a href="https://www.linkedin.com/in/vinayak-sharma-141096193/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 <a href="https://vinayaksh42.medium.com/"><img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/></a>
-![](https://github.com/vinayaksh42/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/vinayaksh42/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/vinayaksh42/stats/blob/master/generated/languages.svg)
+![](https://github.com/vinayaksh42/stats/blob/master/generated/languages.svg)
 
 <!--
 **vinayaksh42/vinayaksh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
